@@ -5,3 +5,6 @@ pyarrow
 oauthlib
 requests
 requests_oauthlib
+PyAthena
+PyAthena[Pandas]
+PyAthena[SQLAlchemy]
